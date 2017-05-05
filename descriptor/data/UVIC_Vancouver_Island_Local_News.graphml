@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">nanaimodailynews.com</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">megaphonemagazine.com</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">lowerislandnews.com</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">hallierosetaylor.tumblr.com</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">wgsn.tumblr.com</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">issuu.com</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">storify.com</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">bitly.com</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">relativenewz.ca</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">pacegallery.tumblr.com</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">youtube.com</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">time.com</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">plus.google.com</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">jameshance.tumblr.com</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">tumblr.com</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">accounts.google.com</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">blackpress.ca</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">lovndsqualr.tumblr.com</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">hitrecordjoe.tumblr.com</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">wnyctransmitter.tumblr.com</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">marcomazzoni.tumblr.com</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">livijoymakes.tumblr.com</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">badpedestrian.tumblr.com</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">yummyinmytumbly.tumblr.com</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">hellogarlic.tumblr.com</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">charleshuettner.tumblr.com</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">cctvnews.tumblr.com</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">greiskuring.tumblr.com</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">bpresscn.accuweather.com</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">behindthescenes.thecoveteur.com</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">joliekerr.tumblr.com</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">megaphone.nationbuilder.com</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">save.ca</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">davidharris.tumblr.com</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">schema.org</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">lowerislandnews.wordpress.com</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">bclocalnews.com</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">facebook.com</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">drivewaycanada.ca</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">bcclassified.com</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">edition.pagesuite-professional.co.uk</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">blackpressused.ca</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">twitter.com</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">pinterest.com</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">iservices.blackpress.ca</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">usednanaimo.com</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">localworkbc.ca</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">addthis.com</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">flickr.com</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">find.megaphonemagazine.com</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">nationbuilder.com</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">cstreet.ca</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">wordpress.com</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">en.wordpress.com</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">help.issuu.com</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">janinebandcroft.blogspot.com</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">janinebandcroft.ca</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">janinebandcroft.wordpress.com</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">maps.google.com</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">surveymonkey.com</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">vancourier.com</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">theglobeandmail.com</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">vancouversun.com</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">cbc.ca</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">theprovince.com</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">lowerislandnews.files.wordpress.com</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">straight.com</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">thetyee.ca</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">bigstockphoto.com</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">surreyleader.com</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">vancouverobserver.com</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">google.com</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">hitrecord.org</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">pnw.cc</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">t.co</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">myspace.com</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">westender.com</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">news1130.com</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">pacegallery.com</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">canadahelps.org</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">francesbula.com</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">vancouver.openfile.ca</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">cknw.com</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">jameshance.com</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">megaphonemagazine.us1.list-manage.com</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">d3n8a8pro7vhmx.cloudfront.net</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">gravatar.com</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">accuweather.com</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">victorysquare.net</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">vancouver.ca</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">thedependent.ca</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">bit.ly</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">support.google.com</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">metronews.ca</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">hopeinshadows.com</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">pivotlegal.org</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">webpapersadmin.bpnewmedia.com</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">ow.ly</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">feedproxy.google.com</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">citycaucus.com</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">stophomelessness.ca</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">vancouverisawesome.com</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">eventbrite.com</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">voicesofthestreet.eventbrite.com</data>
+    </node>
+    <node id="n104">
+      <data key="v_name">hitrecord.tumblr.com</data>
+    </node>
+    <node id="n105">
+      <data key="v_name">used.ca</data>
+    </node>
+    <node id="n106">
+      <data key="v_name">abbynews.com</data>
+    </node>
+    <node id="n107">
+      <data key="v_name">megaphonemagazine.us1.list-manage1.com</data>
+    </node>
+    <node id="n108">
+      <data key="v_name">street-papers.org</data>
+    </node>
+    <node id="n109">
+      <data key="v_name">ohio.com</data>
+    </node>
+    <node id="n110">
+      <data key="v_name">subscription.time.com</data>
+    </node>
+    <node id="n111">
+      <data key="v_name">megaphonemagazine.eventbrite.com</data>
+    </node>
+    <node id="n112">
+      <data key="v_name">en.wikipedia.org</data>
+    </node>
+    <node id="n113">
+      <data key="v_name">bcpovertyreduction.ca</data>
+    </node>
+    <node id="n114">
+      <data key="v_name">goo.gl</data>
+    </node>
+    <node id="n115">
+      <data key="v_name">adequateman.deadspin.com</data>
+    </node>
+    <node id="n116">
+      <data key="v_name">peacearchnews.com</data>
+    </node>
+    <node id="n117">
+      <data key="v_name">nanaimocrimestoppers.com</data>
+    </node>
+    <node id="n118">
+      <data key="v_name">www2.gov.bc.ca</data>
+    </node>
+    <node id="n119">
+      <data key="v_name">sh4tterdgl4ss.tumblr.com</data>
+    </node>
+    <node id="n120">
+      <data key="v_name">infogr.am</data>
+    </node>
+    <node id="n121">
+      <data key="v_name">webpapersadmin.blackpress.ca</data>
+    </node>
+    <node id="n122">
+      <data key="v_name">tyeesolutions.org</data>
+    </node>
+    <node id="n123">
+      <data key="v_name">reddeeradvocate.com</data>
+    </node>
+    <node id="n124">
+      <data key="v_name">vancouver.24hrs.ca</data>
+    </node>
+    <node id="n125">
+      <data key="v_name">headlinestheatre.com</data>
+    </node>
+    <edge source="n0" target="n16">
+    </edge>
+    <edge source="n0" target="n36">
+    </edge>
+    <edge source="n0" target="n37">
+    </edge>
+    <edge source="n0" target="n38">
+    </edge>
+    <edge source="n0" target="n39">
+    </edge>
+    <edge source="n0" target="n40">
+    </edge>
+    <edge source="n0" target="n41">
+    </edge>
+    <edge source="n0" target="n42">
+    </edge>
+    <edge source="n0" target="n43">
+    </edge>
+    <edge source="n0" target="n44">
+    </edge>
+    <edge source="n0" target="n45">
+    </edge>
+    <edge source="n0" target="n46">
+    </edge>
+    <edge source="n0" target="n47">
+    </edge>
+    <edge source="n0" target="n69">
+    </edge>
+    <edge source="n0" target="n74">
+    </edge>
+    <edge source="n0" target="n96">
+    </edge>
+    <edge source="n0" target="n105">
+    </edge>
+    <edge source="n0" target="n106">
+    </edge>
+    <edge source="n0" target="n117">
+    </edge>
+    <edge source="n0" target="n118">
+    </edge>
+    <edge source="n0" target="n120">
+    </edge>
+    <edge source="n0" target="n121">
+    </edge>
+    <edge source="n1" target="n10">
+    </edge>
+    <edge source="n1" target="n12">
+    </edge>
+    <edge source="n1" target="n31">
+    </edge>
+    <edge source="n1" target="n37">
+    </edge>
+    <edge source="n1" target="n42">
+    </edge>
+    <edge source="n1" target="n48">
+    </edge>
+    <edge source="n1" target="n49">
+    </edge>
+    <edge source="n1" target="n50">
+    </edge>
+    <edge source="n1" target="n51">
+    </edge>
+    <edge source="n1" target="n58">
+    </edge>
+    <edge source="n1" target="n60">
+    </edge>
+    <edge source="n1" target="n61">
+    </edge>
+    <edge source="n1" target="n62">
+    </edge>
+    <edge source="n1" target="n63">
+    </edge>
+    <edge source="n1" target="n64">
+    </edge>
+    <edge source="n1" target="n66">
+    </edge>
+    <edge source="n1" target="n67">
+    </edge>
+    <edge source="n1" target="n68">
+    </edge>
+    <edge source="n1" target="n70">
+    </edge>
+    <edge source="n1" target="n74">
+    </edge>
+    <edge source="n1" target="n75">
+    </edge>
+    <edge source="n1" target="n76">
+    </edge>
+    <edge source="n1" target="n77">
+    </edge>
+    <edge source="n1" target="n79">
+    </edge>
+    <edge source="n1" target="n80">
+    </edge>
+    <edge source="n1" target="n81">
+    </edge>
+    <edge source="n1" target="n82">
+    </edge>
+    <edge source="n1" target="n84">
+    </edge>
+    <edge source="n1" target="n85">
+    </edge>
+    <edge source="n1" target="n88">
+    </edge>
+    <edge source="n1" target="n89">
+    </edge>
+    <edge source="n1" target="n90">
+    </edge>
+    <edge source="n1" target="n93">
+    </edge>
+    <edge source="n1" target="n94">
+    </edge>
+    <edge source="n1" target="n95">
+    </edge>
+    <edge source="n1" target="n99">
+    </edge>
+    <edge source="n1" target="n100">
+    </edge>
+    <edge source="n1" target="n101">
+    </edge>
+    <edge source="n1" target="n102">
+    </edge>
+    <edge source="n1" target="n103">
+    </edge>
+    <edge source="n1" target="n107">
+    </edge>
+    <edge source="n1" target="n108">
+    </edge>
+    <edge source="n1" target="n111">
+    </edge>
+    <edge source="n1" target="n112">
+    </edge>
+    <edge source="n1" target="n113">
+    </edge>
+    <edge source="n1" target="n122">
+    </edge>
+    <edge source="n1" target="n124">
+    </edge>
+    <edge source="n1" target="n125">
+    </edge>
+    <edge source="n2" target="n35">
+    </edge>
+    <edge source="n2" target="n52">
+    </edge>
+    <edge source="n2" target="n53">
+    </edge>
+    <edge source="n2" target="n65">
+    </edge>
+    <edge source="n2" target="n86">
+    </edge>
+    <edge source="n3" target="n14">
+    </edge>
+    <edge source="n3" target="n37">
+    </edge>
+    <edge source="n3" target="n42">
+    </edge>
+    <edge source="n4" target="n14">
+    </edge>
+    <edge source="n4" target="n42">
+    </edge>
+    <edge source="n5" target="n12">
+    </edge>
+    <edge source="n5" target="n54">
+    </edge>
+    <edge source="n6" target="n36">
+    </edge>
+    <edge source="n6" target="n42">
+    </edge>
+    <edge source="n6" target="n74">
+    </edge>
+    <edge source="n6" target="n116">
+    </edge>
+    <edge source="n7" target="n42">
+    </edge>
+    <edge source="n8" target="n55">
+    </edge>
+    <edge source="n8" target="n56">
+    </edge>
+    <edge source="n8" target="n57">
+    </edge>
+    <edge source="n8" target="n59">
+    </edge>
+    <edge source="n9" target="n78">
+    </edge>
+    <edge source="n10" target="n12">
+    </edge>
+    <edge source="n10" target="n15">
+    </edge>
+    <edge source="n10" target="n71">
+    </edge>
+    <edge source="n10" target="n114">
+    </edge>
+    <edge source="n11" target="n110">
+    </edge>
+    <edge source="n12" target="n15">
+    </edge>
+    <edge source="n12" target="n71">
+    </edge>
+    <edge source="n12" target="n73">
+    </edge>
+    <edge source="n12" target="n97">
+    </edge>
+    <edge source="n13" target="n14">
+    </edge>
+    <edge source="n13" target="n37">
+    </edge>
+    <edge source="n13" target="n42">
+    </edge>
+    <edge source="n13" target="n43">
+    </edge>
+    <edge source="n13" target="n83">
+    </edge>
+    <edge source="n15" target="n71">
+    </edge>
+    <edge source="n15" target="n92">
+    </edge>
+    <edge source="n16" target="n36">
+    </edge>
+    <edge source="n16" target="n98">
+    </edge>
+    <edge source="n16" target="n109">
+    </edge>
+    <edge source="n16" target="n123">
+    </edge>
+    <edge source="n18" target="n72">
+    </edge>
+    <edge source="n18" target="n104">
+    </edge>
+    <edge source="n28" target="n87">
+    </edge>
+    <edge source="n29" target="n14">
+    </edge>
+    <edge source="n29" target="n91">
+    </edge>
+    <edge source="n30" target="n115">
+    </edge>
+    <edge source="n33" target="n119">
+    </edge>
+    <edge source="n35" target="n52">
+    </edge>
+  </graph>
+</graphml>
