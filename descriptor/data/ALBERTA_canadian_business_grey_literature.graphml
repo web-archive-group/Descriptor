@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">ceocouncil.ca</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">collierscanada.com</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">bmonesbittburns.com</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">theglobeandmail.com</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">dublincore.org</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">ipolitics.ca</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">albertaventure.com</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">youtube.com</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">opencanada.org</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">ipsos.ca</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">bmonb.com</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">opinion.financialpost.com</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">businessroundtable.org</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">bmo.com</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">ottawacitizen.com</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">conferenceboard.ca</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">rbc.com</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">hilltimes.com</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">w3.org</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">tbe.taleo.net</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">twitter.com</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">colliers.com</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">linkedin.com</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">addthis.com</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">go.microsoft.com</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">bmocm.com</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">purl.org</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">www4.bmo.com</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">locator.bmo.com</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">cipf.ca</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">accounts.google.com</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">ipsos-na.com</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">irpp.org</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">cfr.org</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">statcan.gc.ca</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">maps.google.com</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">obeo.com</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">globelink.ca</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">irvingoil.com</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">issuu.com</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">actiononinnovation.ca</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">calgaryherald.com</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">pwc.com</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">myvisuallistings.com</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">gg.ca</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">triumf.ca</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">pm.gc.ca</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">Obeo.com</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">transcanada.com</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">borderactionplan-plandactionfrontalier.gc.ca</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">clearwater.ca</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">business.financialpost.com</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">ceocouncil.us2.list-manage.com</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">g20.org</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">g20.utoronto.ca</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">o.canada.com</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">wto.org</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">lowyinstitute.org</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">international.gc.ca</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">riotintoalcan.com</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">brookfield.com</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">linamar.com</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">customer.globeandmail.ca</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">wlu.ca</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">www3.weforum.org</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">opentext.com</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">bombardier.ca</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">jrsl.ca</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">aigroup.com.au</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">google.com</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">v1.theglobeandmail.com</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">ocean-nutrition.com</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">sec.theglobeandmail.com</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">actionplan.gc.ca</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">bombardier.com</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">letstalkscience.ca</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">PacificCentury.ca</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">sunlife.ca</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">nordion.com</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">torontosun.com</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">iie.com</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">pcl.com</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">nytimes.com</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">cdhowe.org</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">rcffn.ca</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">nickel.vale.com</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">cae.com</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">househunting.ca</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">www2.macleans.ca</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">watch.bnn.ca</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">micro.newswire.ca</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">councilofthefederation.ca</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">colliershotels.com</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">genewscenter.com</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">gsk.ca</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">iicom.org</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">queensu.ca</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">uoguelph.ca</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">washingtonpost.com</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">ouranos.ca</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">ceocouncil.us2.list-manage1.com</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">powercorporation.com</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">widgetbox.com</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">classifieds.ottawacitizen.com</data>
+    </node>
+    <node id="n104">
+      <data key="v_name">mckinsey.com</data>
+    </node>
+    <node id="n105">
+      <data key="v_name">itunes.apple.com</data>
+    </node>
+    <node id="n106">
+      <data key="v_name">canfor.com</data>
+    </node>
+    <node id="n107">
+      <data key="v_name">shell.ca</data>
+    </node>
+    <node id="n108">
+      <data key="v_name">venturejobs.ca</data>
+    </node>
+    <node id="n109">
+      <data key="v_name">lightsource.ca</data>
+    </node>
+    <node id="n110">
+      <data key="v_name">bloomberg.com</data>
+    </node>
+    <node id="n111">
+      <data key="v_name">telus.com</data>
+    </node>
+    <node id="n112">
+      <data key="v_name">enbridge.com</data>
+    </node>
+    <node id="n113">
+      <data key="v_name">chryslertestservices.com</data>
+    </node>
+    <node id="n114">
+      <data key="v_name">www2.canada.com</data>
+    </node>
+    <node id="n115">
+      <data key="v_name">hir.uoit.ca</data>
+    </node>
+    <node id="n116">
+      <data key="v_name">thestar.com</data>
+    </node>
+    <node id="n117">
+      <data key="v_name">workingforest.com</data>
+    </node>
+    <node id="n118">
+      <data key="v_name">nationalpost.com</data>
+    </node>
+    <node id="n119">
+      <data key="v_name">asiapacific.ca</data>
+    </node>
+    <node id="n120">
+      <data key="v_name">ad.ca.doubleclick.net</data>
+    </node>
+    <node id="n121">
+      <data key="v_name">thewirereport.ca</data>
+    </node>
+    <node id="n122">
+      <data key="v_name">corusent.com</data>
+    </node>
+    <node id="n123">
+      <data key="v_name">utppublishing.com</data>
+    </node>
+    <node id="n124">
+      <data key="v_name">ietf.org</data>
+    </node>
+    <node id="n125">
+      <data key="v_name">mail.ceocouncil.ca</data>
+    </node>
+    <node id="n126">
+      <data key="v_name">canada2020.ca</data>
+    </node>
+    <node id="n127">
+      <data key="v_name">lobbymonitor.ca</data>
+    </node>
+    <node id="n128">
+      <data key="v_name">cn.ca</data>
+    </node>
+    <node id="n129">
+      <data key="v_name">appworld.blackberry.com</data>
+    </node>
+    <node id="n130">
+      <data key="v_name">smallbusiness.albertaventure.com</data>
+    </node>
+    <node id="n131">
+      <data key="v_name">workopolis.com</data>
+    </node>
+    <node id="n132">
+      <data key="v_name">ge.com</data>
+    </node>
+    <node id="n133">
+      <data key="v_name">yosemite.epa.gov</data>
+    </node>
+    <node id="n134">
+      <data key="v_name">atco.com</data>
+    </node>
+    <node id="n135">
+      <data key="v_name">whitehouse.gov</data>
+    </node>
+    <node id="n136">
+      <data key="v_name">balancedcopyright.gc.ca</data>
+    </node>
+    <node id="n137">
+      <data key="v_name">bit.ly</data>
+    </node>
+    <node id="n138">
+      <data key="v_name">teck.com</data>
+    </node>
+    <node id="n139">
+      <data key="v_name">canada.com</data>
+    </node>
+    <node id="n140">
+      <data key="v_name">en.presidencia.gob.mx</data>
+    </node>
+    <node id="n141">
+      <data key="v_name">kingsettcapital.com</data>
+    </node>
+    <edge source="n0" target="n3">
+    </edge>
+    <edge source="n0" target="n8">
+    </edge>
+    <edge source="n0" target="n11">
+    </edge>
+    <edge source="n0" target="n12">
+    </edge>
+    <edge source="n0" target="n13">
+    </edge>
+    <edge source="n0" target="n16">
+    </edge>
+    <edge source="n0" target="n20">
+    </edge>
+    <edge source="n0" target="n32">
+    </edge>
+    <edge source="n0" target="n33">
+    </edge>
+    <edge source="n0" target="n34">
+    </edge>
+    <edge source="n0" target="n38">
+    </edge>
+    <edge source="n0" target="n40">
+    </edge>
+    <edge source="n0" target="n41">
+    </edge>
+    <edge source="n0" target="n42">
+    </edge>
+    <edge source="n0" target="n44">
+    </edge>
+    <edge source="n0" target="n45">
+    </edge>
+    <edge source="n0" target="n46">
+    </edge>
+    <edge source="n0" target="n48">
+    </edge>
+    <edge source="n0" target="n49">
+    </edge>
+    <edge source="n0" target="n50">
+    </edge>
+    <edge source="n0" target="n51">
+    </edge>
+    <edge source="n0" target="n52">
+    </edge>
+    <edge source="n0" target="n53">
+    </edge>
+    <edge source="n0" target="n54">
+    </edge>
+    <edge source="n0" target="n55">
+    </edge>
+    <edge source="n0" target="n56">
+    </edge>
+    <edge source="n0" target="n57">
+    </edge>
+    <edge source="n0" target="n58">
+    </edge>
+    <edge source="n0" target="n59">
+    </edge>
+    <edge source="n0" target="n60">
+    </edge>
+    <edge source="n0" target="n61">
+    </edge>
+    <edge source="n0" target="n63">
+    </edge>
+    <edge source="n0" target="n64">
+    </edge>
+    <edge source="n0" target="n65">
+    </edge>
+    <edge source="n0" target="n66">
+    </edge>
+    <edge source="n0" target="n67">
+    </edge>
+    <edge source="n0" target="n68">
+    </edge>
+    <edge source="n0" target="n71">
+    </edge>
+    <edge source="n0" target="n73">
+    </edge>
+    <edge source="n0" target="n74">
+    </edge>
+    <edge source="n0" target="n75">
+    </edge>
+    <edge source="n0" target="n76">
+    </edge>
+    <edge source="n0" target="n77">
+    </edge>
+    <edge source="n0" target="n78">
+    </edge>
+    <edge source="n0" target="n79">
+    </edge>
+    <edge source="n0" target="n80">
+    </edge>
+    <edge source="n0" target="n81">
+    </edge>
+    <edge source="n0" target="n82">
+    </edge>
+    <edge source="n0" target="n83">
+    </edge>
+    <edge source="n0" target="n84">
+    </edge>
+    <edge source="n0" target="n85">
+    </edge>
+    <edge source="n0" target="n86">
+    </edge>
+    <edge source="n0" target="n88">
+    </edge>
+    <edge source="n0" target="n89">
+    </edge>
+    <edge source="n0" target="n90">
+    </edge>
+    <edge source="n0" target="n91">
+    </edge>
+    <edge source="n0" target="n93">
+    </edge>
+    <edge source="n0" target="n94">
+    </edge>
+    <edge source="n0" target="n95">
+    </edge>
+    <edge source="n0" target="n96">
+    </edge>
+    <edge source="n0" target="n97">
+    </edge>
+    <edge source="n0" target="n98">
+    </edge>
+    <edge source="n0" target="n99">
+    </edge>
+    <edge source="n0" target="n100">
+    </edge>
+    <edge source="n0" target="n101">
+    </edge>
+    <edge source="n0" target="n104">
+    </edge>
+    <edge source="n0" target="n106">
+    </edge>
+    <edge source="n0" target="n107">
+    </edge>
+    <edge source="n0" target="n109">
+    </edge>
+    <edge source="n0" target="n110">
+    </edge>
+    <edge source="n0" target="n111">
+    </edge>
+    <edge source="n0" target="n112">
+    </edge>
+    <edge source="n0" target="n113">
+    </edge>
+    <edge source="n0" target="n114">
+    </edge>
+    <edge source="n0" target="n115">
+    </edge>
+    <edge source="n0" target="n116">
+    </edge>
+    <edge source="n0" target="n117">
+    </edge>
+    <edge source="n0" target="n119">
+    </edge>
+    <edge source="n0" target="n122">
+    </edge>
+    <edge source="n0" target="n123">
+    </edge>
+    <edge source="n0" target="n125">
+    </edge>
+    <edge source="n0" target="n126">
+    </edge>
+    <edge source="n0" target="n128">
+    </edge>
+    <edge source="n0" target="n132">
+    </edge>
+    <edge source="n0" target="n133">
+    </edge>
+    <edge source="n0" target="n134">
+    </edge>
+    <edge source="n0" target="n135">
+    </edge>
+    <edge source="n0" target="n136">
+    </edge>
+    <edge source="n0" target="n138">
+    </edge>
+    <edge source="n0" target="n140">
+    </edge>
+    <edge source="n0" target="n141">
+    </edge>
+    <edge source="n1" target="n3">
+    </edge>
+    <edge source="n1" target="n7">
+    </edge>
+    <edge source="n1" target="n19">
+    </edge>
+    <edge source="n1" target="n20">
+    </edge>
+    <edge source="n1" target="n21">
+    </edge>
+    <edge source="n1" target="n22">
+    </edge>
+    <edge source="n1" target="n23">
+    </edge>
+    <edge source="n1" target="n24">
+    </edge>
+    <edge source="n1" target="n35">
+    </edge>
+    <edge source="n1" target="n36">
+    </edge>
+    <edge source="n1" target="n39">
+    </edge>
+    <edge source="n1" target="n41">
+    </edge>
+    <edge source="n1" target="n43">
+    </edge>
+    <edge source="n1" target="n47">
+    </edge>
+    <edge source="n1" target="n92">
+    </edge>
+    <edge source="n1" target="n102">
+    </edge>
+    <edge source="n1" target="n137">
+    </edge>
+    <edge source="n2" target="n13">
+    </edge>
+    <edge source="n2" target="n25">
+    </edge>
+    <edge source="n2" target="n27">
+    </edge>
+    <edge source="n2" target="n28">
+    </edge>
+    <edge source="n2" target="n29">
+    </edge>
+    <edge source="n3" target="n37">
+    </edge>
+    <edge source="n3" target="n62">
+    </edge>
+    <edge source="n3" target="n70">
+    </edge>
+    <edge source="n3" target="n72">
+    </edge>
+    <edge source="n3" target="n105">
+    </edge>
+    <edge source="n3" target="n129">
+    </edge>
+    <edge source="n4" target="n18">
+    </edge>
+    <edge source="n4" target="n26">
+    </edge>
+    <edge source="n4" target="n124">
+    </edge>
+    <edge source="n6" target="n108">
+    </edge>
+    <edge source="n6" target="n130">
+    </edge>
+    <edge source="n7" target="n30">
+    </edge>
+    <edge source="n7" target="n69">
+    </edge>
+    <edge source="n9" target="n31">
+    </edge>
+    <edge source="n10" target="n2">
+    </edge>
+    <edge source="n10" target="n13">
+    </edge>
+    <edge source="n10" target="n25">
+    </edge>
+    <edge source="n10" target="n27">
+    </edge>
+    <edge source="n10" target="n28">
+    </edge>
+    <edge source="n10" target="n29">
+    </edge>
+    <edge source="n11" target="n51">
+    </edge>
+    <edge source="n11" target="n118">
+    </edge>
+    <edge source="n11" target="n120">
+    </edge>
+    <edge source="n14" target="n87">
+    </edge>
+    <edge source="n14" target="n103">
+    </edge>
+    <edge source="n14" target="n131">
+    </edge>
+    <edge source="n14" target="n139">
+    </edge>
+    <edge source="n17" target="n121">
+    </edge>
+    <edge source="n17" target="n127">
+    </edge>
+    <edge source="n18" target="n124">
+    </edge>
+  </graph>
+</graphml>

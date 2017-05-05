@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">dublincore.org</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">fmap.ca</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">ramlegacy.marinebiodiversity.ca</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">web.resource.org</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">mscs.dal.ca</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">purl.org</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">w3.org</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">RAMlegacy.marinebiodiversity.ca</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">sciencemag.org</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">coml.org</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">springerlink.com</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">globalshark.ca</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">sararegistry.gc.ca</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">journals.royalsoc.ac.uk</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">pewoceanscience.org</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">nature.com</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">wwf.ca</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">oceana.org</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">onlinelibrary.wiley.com</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">crcpress.com</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">wormlab.biology.dal.ca</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">springer.de</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">plosbiology.org</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">elements.nb.ca</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">comlmaps.org</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">int-res.com</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">ietf.org</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">ram.biology.dal.ca</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">seaturtle.ca</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">mathstat.dal.ca</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">dal.ca</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">sciencenow.sciencemag.org</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">lenfestocean.org</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">biology.dal.ca</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">ramweb.biology.dal.ca</data>
+    </node>
+    <edge source="n0" target="n5">
+    </edge>
+    <edge source="n0" target="n6">
+    </edge>
+    <edge source="n0" target="n26">
+    </edge>
+    <edge source="n1" target="n8">
+    </edge>
+    <edge source="n1" target="n9">
+    </edge>
+    <edge source="n1" target="n10">
+    </edge>
+    <edge source="n1" target="n11">
+    </edge>
+    <edge source="n1" target="n12">
+    </edge>
+    <edge source="n1" target="n13">
+    </edge>
+    <edge source="n1" target="n14">
+    </edge>
+    <edge source="n1" target="n15">
+    </edge>
+    <edge source="n1" target="n16">
+    </edge>
+    <edge source="n1" target="n17">
+    </edge>
+    <edge source="n1" target="n18">
+    </edge>
+    <edge source="n1" target="n19">
+    </edge>
+    <edge source="n1" target="n20">
+    </edge>
+    <edge source="n1" target="n21">
+    </edge>
+    <edge source="n1" target="n22">
+    </edge>
+    <edge source="n1" target="n23">
+    </edge>
+    <edge source="n1" target="n24">
+    </edge>
+    <edge source="n1" target="n25">
+    </edge>
+    <edge source="n1" target="n28">
+    </edge>
+    <edge source="n1" target="n29">
+    </edge>
+    <edge source="n1" target="n30">
+    </edge>
+    <edge source="n1" target="n31">
+    </edge>
+    <edge source="n1" target="n32">
+    </edge>
+    <edge source="n1" target="n33">
+    </edge>
+    <edge source="n1" target="n34">
+    </edge>
+    <edge source="n2" target="n7">
+    </edge>
+    <edge source="n3" target="n5">
+    </edge>
+    <edge source="n4" target="n27">
+    </edge>
+  </graph>
+</graphml>
